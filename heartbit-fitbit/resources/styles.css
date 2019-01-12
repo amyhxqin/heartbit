@@ -1,0 +1,21 @@
+.background {
+  viewport-fill: fb-red;
+}
+
+text {
+  fill: black;
+  text-anchor: middle;
+  x: 50%;
+}
+
+#title {
+  font-size: 40;
+  font-family: Colfax-Regular;
+  y: 40%;
+}
+
+#bpm {
+  font-size: 96;
+  font-family: Colfax-Medium;
+  y: 73%;
+}

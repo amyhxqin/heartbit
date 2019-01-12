@@ -1,0 +1,4 @@
+<svg class="background">
+  <text id="title">Your BPM is:</text>
+  <text id="bpm"></text>
+</svg>
